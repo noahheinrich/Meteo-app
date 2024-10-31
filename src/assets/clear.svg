@@ -1,0 +1,28 @@
+<svg width="150" height="148" viewBox="0 0 150 148" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="75" cy="74" r="37" fill="#FDB441"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M61.7008 104.971C82.1353 104.971 98.7008 88.4057 98.7008 67.9712C98.7008 55.6434 92.6718 44.7238 83.4016 38C99.6379 41.9132 111.701 56.5335 111.701 73.9712C111.701 94.4057 95.1353 110.971 74.7008 110.971C66.594 110.971 59.0962 108.364 53 103.942C55.7904 104.615 58.704 104.971 61.7008 104.971Z" fill="#FEA713"/>
+<rect x="71" y="5" width="9" height="15" fill="#FED402"/>
+<circle cx="75.5" cy="4.5" r="4.5" fill="#FED402"/>
+<circle cx="75.5" cy="20.5" r="4.5" fill="#FED402"/>
+<rect x="71" y="128" width="9" height="15" fill="#FED402"/>
+<circle cx="75.5" cy="127.5" r="4.5" fill="#FED402"/>
+<circle cx="75.5" cy="143.5" r="4.5" fill="#FED402"/>
+<rect x="5" y="79" width="9" height="15" transform="rotate(-90 5 79)" fill="#FED402"/>
+<circle cx="4.5" cy="74.5" r="4.5" transform="rotate(-90 4.5 74.5)" fill="#FED402"/>
+<circle cx="20.5" cy="74.5" r="4.5" transform="rotate(-90 20.5 74.5)" fill="#FED402"/>
+<rect x="130" y="79" width="9" height="15" transform="rotate(-90 130 79)" fill="#FED402"/>
+<circle cx="129.5" cy="74.5" r="4.5" transform="rotate(-90 129.5 74.5)" fill="#FED402"/>
+<circle cx="145.5" cy="74.5" r="4.5" transform="rotate(-90 145.5 74.5)" fill="#FED402"/>
+<rect x="23.5355" y="28.8995" width="9" height="15" transform="rotate(-45 23.5355 28.8995)" fill="#FED402"/>
+<circle cx="26.364" cy="25.364" r="4.5" transform="rotate(-45 26.364 25.364)" fill="#FED402"/>
+<circle cx="37.6777" cy="36.6777" r="4.5" transform="rotate(-45 37.6777 36.6777)" fill="#FED402"/>
+<rect x="120.142" y="23.5355" width="9" height="15" transform="rotate(45 120.142 23.5355)" fill="#FED402"/>
+<circle cx="123.678" cy="26.364" r="4.5" transform="rotate(45 123.678 26.364)" fill="#FED402"/>
+<circle cx="112.364" cy="37.6777" r="4.5" transform="rotate(45 112.364 37.6777)" fill="#FED402"/>
+<rect x="33.1422" y="111.536" width="9" height="15" transform="rotate(45 33.1422 111.536)" fill="#FED402"/>
+<circle cx="36.6777" cy="114.364" r="4.5" transform="rotate(45 36.6777 114.364)" fill="#FED402"/>
+<circle cx="25.364" cy="125.678" r="4.5" transform="rotate(45 25.364 125.678)" fill="#FED402"/>
+<rect x="110.536" y="114.899" width="9" height="15" transform="rotate(-45 110.536 114.899)" fill="#FED402"/>
+<circle cx="113.364" cy="111.364" r="4.5" transform="rotate(-45 113.364 111.364)" fill="#FED402"/>
+<circle cx="124.678" cy="122.678" r="4.5" transform="rotate(-45 124.678 122.678)" fill="#FED402"/>
+</svg>
